@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:     Visual FoxPro 3.0, 5.0, and 6.0
 " Maintainer:   Edward Franks <efranks@visto.com>
-" Last Change:  August 21, 2001
+" Last Change:  August 29, 2001
 
 "     This file builds on the FoxPro for DOS v2.x syntax file 
 " maintained by Powing Tse <powing@mcmug.org> and the Clipper 5.2 &
@@ -607,6 +607,7 @@ syn keyword vfpCmd sysmenu
 syn keyword vfpCmd sysmenus
 syn keyword vfpCmd system
 syn keyword vfpCmd tab
+syn keyword vfpCmd tag
 syn keyword vfpCmd table
 syn keyword vfpCmd tables
 syn keyword vfpCmd tabs
