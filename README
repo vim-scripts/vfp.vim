@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=68
+
+
+     This file builds on the FoxPro for DOS v2.x syntax file maintained by Powing Tse <powing@mcmug.org> and the Clipper 5.2 & FlagShip syntax file maintained by C R Zamana <zamana@zip.net>.
+
+     This syntax file should work with Visual Foxpro versions 3.0 - 6.0 and OS platforms Windows, Mac, and Unix.  The best fit will be VFP 6 (which is Windows only).  Older versions may have things highlighted that aren't actually available in that version.  For example, GETHOST() is new in VFP 6, but would show up in a VFP 3 program as a reserved word.  Consider this as a future-proofing feature and not a bug.  ;-)
+
+     Because of the messy nature of the Visual FoxPro documentation *and* the language itself, I've had to combine reserved word lists from several, slightly different, sources.  This means I might have missed a reserved word here or there.  If you find one, please let me know so I can add it to this file.
+
+
